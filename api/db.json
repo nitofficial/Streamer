@@ -1,0 +1,61 @@
+{
+  "streams": [
+    {
+      "title": "123",
+      "description": "456",
+      "id": 1
+    },
+    {
+      "title": "123",
+      "description": "456",
+      "id": 2
+    },
+    {
+      "title": "123",
+      "description": "456",
+      "id": 3
+    },
+    {
+      "title": "123",
+      "description": "456",
+      "userId": {
+        "isSignedIn": false,
+        "userId": null
+      },
+      "id": 5
+    },
+    {
+      "title": "abc",
+      "description": "def1",
+      "id": 6
+    },
+    {
+      "title": "My Stream",
+      "description": "Here's the edited stream.",
+      "id": 7
+    },
+    {
+      "title": "9876",
+      "description": "5432",
+      "id": 8
+    },
+    {
+      "title": "Huhoooo!",
+      "description": "Finished .",
+      "userId": "103109265550046865370",
+      "id": 9
+    },
+    {
+      "title": "Hello",
+      "description": "This is another stream",
+      "userId": "112465473136892981371",
+      "id": 10
+    },
+    {
+      "title": "Lokesh",
+      "description": "VB",
+      "userId": "112465473136892981371",
+      "id": 11
+    }
+  ]
+}
